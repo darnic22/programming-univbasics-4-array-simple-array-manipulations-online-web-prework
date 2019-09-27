@@ -36,6 +36,9 @@ end
  end
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
  artist.flatten
- 
-artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
-artist.delete
+end
+
+ artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist.delete
+end
+ artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
