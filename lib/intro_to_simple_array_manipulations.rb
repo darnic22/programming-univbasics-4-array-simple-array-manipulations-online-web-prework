@@ -23,4 +23,4 @@ end
  artist.shift"Frida Kahlo"
  
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
- 
+ artist.concat
