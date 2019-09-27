@@ -21,11 +21,17 @@ end
  
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
  artist.shift"Frida Kahlo"
+ end
  
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
  artist.concat
+ end
  
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
  artist.insert
+ end
  
- ["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist.uniq
+ end
+ 
