@@ -3,15 +3,19 @@
  artist.push(next_artist)
 end
 
- artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist=["Frida Kahlo","Pablo Picasso","Cai Guo-Qiang"]
  artist.pop
  artist#=> 
 
- artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist=["Frida Kahlo","Pablo Picasso","Cai Guo-Qiang"]
  artist.push"Andy Warhol"
 end
  
- artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist=["Frida Kahlo","Pablo Picasso","Cai Guo-Qiang"]
  artist.unshift"Jasper Jones"
+ end
+ 
+ artist=["Frida Kahlo","Pablo Picasso","Cai Guo-Qiang"]
+ ("Pablo Picasso","Cai Guo-Qiang")
  end
  
