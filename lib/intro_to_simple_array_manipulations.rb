@@ -11,4 +11,7 @@ end
  artist.push"Andy Warhol"
 end
  
- artist=[]
+ artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist.unshift"Jasper Jones"
+ end
+ 
