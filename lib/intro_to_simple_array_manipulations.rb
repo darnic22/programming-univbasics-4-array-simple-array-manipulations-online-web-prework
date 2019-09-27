@@ -26,3 +26,4 @@ end
  artist.concat
  
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist.insert
