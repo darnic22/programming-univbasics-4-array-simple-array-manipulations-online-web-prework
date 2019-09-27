@@ -11,4 +11,4 @@ end
  artist.push"Andy Warhol"
 end
  
- 
+ artist=[]
