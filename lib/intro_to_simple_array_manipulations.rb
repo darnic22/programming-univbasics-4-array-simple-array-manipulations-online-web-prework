@@ -19,4 +19,6 @@ end
  ("Pablo Picasso","Cai Guo-Qiang")
  end
  
+["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ 
  
