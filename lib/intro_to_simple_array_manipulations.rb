@@ -8,6 +8,6 @@ end
  artist#=> 
 
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
- artist.push"Cai Guo-Qiang"
- end
+ artist.push"Andy Warhol"
+end
  
