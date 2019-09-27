@@ -42,3 +42,4 @@ end
  artist.delete
 end
  artist=["Frida Kahlo","Pable Picasso","Cai Guo-Qiang"]
+ artist.delete_via_redirect
